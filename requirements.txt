@@ -1,0 +1,10 @@
+numpy
+pandas
+pydub
+librosa
+soundfile
+whisper           
+transformers
+torch            
+jiwer
+tqdm
